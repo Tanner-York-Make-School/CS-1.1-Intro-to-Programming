@@ -1,0 +1,911 @@
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 152ef456-1c04-4035-9255-485442e65037
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects bcc16e8f-c6b4-4bf3-9da1-4163500c0656
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 6027f3a9-884b-4a3c-8c05-0d093c45cf81
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because chance greater than repo_rate
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 06007f13-f9fd-4991-a97e-e12bb7d40100
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 590bd609-2448-4eb3-ae70-85a0be209560
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because chance greater than repo_rate
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because chance greater than repo_rate
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 33044ec8-ecfa-4c5a-a221-ce4bc7570574
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because chance greater than repo_rate
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because chance greater than repo_rate
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb infects 89eb92d5-e2cd-45b3-9667-f89f0c838db0
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+59c5235a-cf08-48d9-8fe4-cfff5f0ebbbb died from infection
+Time step 1 ended, beginning 2
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+152ef456-1c04-4035-9255-485442e65037 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+590bd609-2448-4eb3-ae70-85a0be209560 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 06007f13-f9fd-4991-a97e-e12bb7d40100 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect d005d9ff-ae1c-4d77-ba66-89a32c8625b3 because vaccinated
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect bcc16e8f-c6b4-4bf3-9da1-4163500c0656 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 590bd609-2448-4eb3-ae70-85a0be209560 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 33044ec8-ecfa-4c5a-a221-ce4bc7570574 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 6027f3a9-884b-4a3c-8c05-0d093c45cf81 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 152ef456-1c04-4035-9255-485442e65037 because already sick
+06007f13-f9fd-4991-a97e-e12bb7d40100 didn't infect 89eb92d5-e2cd-45b3-9667-f89f0c838db0 because already sick
+3d9ff1a3-ace0-4eb5-b0aa-38882145ee97 survived infection
+bcc16e8f-c6b4-4bf3-9da1-4163500c0656 died from infection
+152ef456-1c04-4035-9255-485442e65037 survived infection
+33044ec8-ecfa-4c5a-a221-ce4bc7570574 died from infection
+590bd609-2448-4eb3-ae70-85a0be209560 survived infection
+89eb92d5-e2cd-45b3-9667-f89f0c838db0 died from infection
+6027f3a9-884b-4a3c-8c05-0d093c45cf81 died from infection
+06007f13-f9fd-4991-a97e-e12bb7d40100 survived infection
+Time step 2 ended, beginning 3

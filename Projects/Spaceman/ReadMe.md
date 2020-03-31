@@ -1,7 +1,6 @@
-# Spaceman Project
+# Spaceman
+A Guessing Game where you try to guess a random word just by the number of letters and a prompt before you run out of guesses.
 
-## Description
-Spaceman is a guessing game.  There is a mystery word which the user tries to guess one letter at a time.  
-
-## Project Spec
-Read the [Spaceman project spec](https://make.sc/spaceman) for more details.
+## How to use this program
+Open the file and run: <br>
+`python3 spaceman.py`
